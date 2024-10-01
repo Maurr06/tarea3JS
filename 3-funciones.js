@@ -70,7 +70,7 @@ const saludarFlecha = (nombre) => "hola " + nombre
 
 // 4.3 Escribe una función flecha llamada `calcularArea` que reciba el radio de un círculo y devuelva el área del círculo. Usa la fórmula A = π * r².
 const calcularArea = (radio) => {
-  return Math.PI * (r ** 2)
+  return Math.PI * (radio ** 2)
 }
 
 // 5. Recursividad
